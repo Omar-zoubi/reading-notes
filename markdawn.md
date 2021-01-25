@@ -12,11 +12,6 @@ It is allows the user to build their owin web page in easy way.
 5. - [ ] task list
 
 
-## Table :
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 ## With Markdown you don't need to know or to learn alot about design.
