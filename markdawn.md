@@ -11,10 +11,10 @@ It is allows the user to build their owin web page in easy way.
 4. - [x] task list
 5. - [ ] task list
 ## Table 
-First Header                 | Second Header
-------------                 | -------------
-Content from cell 1          | Content from cell 2
-Content in the first column  | Content in the second column
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 ## With Markdown you don't need to know or to learn alot about design.
