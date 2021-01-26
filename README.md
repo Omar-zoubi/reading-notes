@@ -8,8 +8,8 @@
 | Markdown |  MindGrowth   |  Git  |
 |----------|:-------------:|------:|
 |[click here](https://omar-zoubi.github.io/reading-notes/markdawn)| [click here ](https://omar-zoubi.github.io/reading-notes/MindGrowth/)|[click here ](https://omar-zoubi.github.io/reading-notes/Git)|
-
-
 ### Hope you to enjoy browsing my website .. 
 ### you allways can check for my new on GitHub ..
 [GitHub Link](https://github.com/Omar-zoubi)
+
+
