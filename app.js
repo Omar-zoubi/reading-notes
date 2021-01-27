@@ -8,3 +8,4 @@ while (uinput !=pasword) {
     uinput=prompt("Enter the password ")
     
 }
+<button onClick="setTimeout(funcName, 3000)">Click Me</button>
