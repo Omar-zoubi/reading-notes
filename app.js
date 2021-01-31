@@ -9,7 +9,7 @@ while (uinput !=pasword) {
     
 }
  
-var rate  = prompt("Enter yor rate ","1 star ,tow star ,three star four star  ")
+var rate  = prompt("Enter yor rate ","1 , 2 , 3, 4 ,5 .... ")
 
 
 function rateImage ()
