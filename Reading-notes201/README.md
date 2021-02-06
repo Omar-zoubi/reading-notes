@@ -10,7 +10,7 @@
 ### The structure is very similar when a news story is viewed online (although it may also feature audio or video).
 
 # HTML Uses Elements to Describe the Structure of Pages
-![]("st.png")
+![](http://qatechhub.com/wp-content/uploads/2016/09/BasicHtmlStructure.png)
 
 # HTML Markup :
 #### HTML has many version, DOCTYPES tell browsers which version of HTML you are using.
