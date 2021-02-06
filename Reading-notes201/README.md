@@ -24,10 +24,10 @@
 #### To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
 
 # Process & Design:
- #### X It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
+ ### It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
  ###  Site maps allow you to plan the structure of a site.
  ### Wireframes allow you to organize the information that will need to go on each page.
-![]("https://www.webpixeltechnologies.com/wp-content/uploads/2016/10/web-development-process-explained.jpg")
+![](https://www.webpixeltechnologies.com/wp-content/uploads/2016/10/web-development-process-explained.jpg)
 
 # What is a script ?? 
 #### A script is a series of instructions that a computer can follow to achieve a goal.
@@ -39,4 +39,4 @@ that down into smaller steps.
 - Define the Goal 
 - Disign the script 
 - Code each step 
-![]("https://1.bp.blogspot.com/-l9eNZKNf_o0/XWgvUMssDkI/AAAAAAAAArc/1NRXlDYYzX0E-Hzcun5SNO3TLBiqYaLkwCLcBGAs/s640/learn%2BJavascript.jpg")
+![](https://1.bp.blogspot.com/-l9eNZKNf_o0/XWgvUMssDkI/AAAAAAAAArc/1NRXlDYYzX0E-Hzcun5SNO3TLBiqYaLkwCLcBGAs/s640/learn%2BJavascript.jpg)
