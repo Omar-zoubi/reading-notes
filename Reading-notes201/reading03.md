@@ -33,9 +33,9 @@
 
 #### The border-image property applies an image to the border of any box. It takes a background image and slices it into nine pieces. 
 
- ## Arrays:
- * ### An array is a special type of variable. It doesn't just store one value; it stores a list of values. 
- * ### Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one). 
+## Array :
+  ### An array is a special type of variable. It doesn't just store one value; it stores a list of values. 
+  ### Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one). 
  ![](https://i.stack.imgur.com/stW7o.png)
 
  ***Done by Omar ALzoubi***
