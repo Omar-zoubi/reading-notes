@@ -1,6 +1,5 @@
 # HTML & CSS
 
-## 
 
 ###  USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN
 #### If there is no CSS, the rendering engine will apply default styles to HTML elements. However, the HTML code for this example links to a CSS style sheet, so the browser requests that file and displays the page accordingly. When the browser receives CSS rules, the rendering engine processes them and applies each rule to its corresponding elements. This is how the browser positions the elements in the correct place, with the right colors, fonts, and so on. 
