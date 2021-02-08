@@ -24,9 +24,9 @@
 ### And here is a table : 
 ![](https://www.miltonmarketing.com/wp-content/uploads/2018/04/javascriptcomparisonoperatorsimage041.jpg)
 ## Logical Operators : 
-- Logical And "&&"
-- Logical Or "||"
-- Logical Not "!"
+- Logical And 
+- Logical Or 
+- Logical Not 
 ### And here is a table : 
 ![](https://programmingwithbabu.files.wordpress.com/2017/09/logical_operator_in_c.jpg?w=499)
 
