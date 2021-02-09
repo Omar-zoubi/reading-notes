@@ -1,9 +1,9 @@
 ## Links in HTML 
 #### Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing.
 
-## Emai-Links
+## Email-Links
 ***mailto***
-#### email link looks just like any other link but, when it is clicked on, the user's email program will open a new email message and address it to the person specified in the link, you have to use 'mailto' in the begining of 'href'.
+#### email link looks just like any other link but, when it is clicked on, the user's email program will open a new email message and address it to the person specified in the link, you have to use 'mailto' in the beginning of 'href'.
 ![](https://www.greengeeks.com/tutorials/wp-content/uploads/2017/06/EmailHTMLCode.jpg)
 
 ***To open any linl in a new window you have to type 'target="_blank"'***
