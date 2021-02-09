@@ -36,3 +36,19 @@
 ## Local & Global Variable :
 #### Global variables use more memory. The browser has to remember them for as long as the web page using them is loaded. Local variables are only remembered during the period of time that a function is being executed. 
 
+
+##  What Is Pair Programming :
+#### pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. 
+
+### 6 Advantages Of Pair Programming:
+- #### Greater efficiency.
+- #### Engaged collaboration
+- #### Learning from fellow students.
+- #### Social skills.
+- #### Job interview readiness.
+- #### Work environment readiness.
+
+
+***This done by Omar-AlZoubi***
+[GitHub](https://github.com/Omar-zoubi)
+
