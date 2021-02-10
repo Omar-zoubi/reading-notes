@@ -25,10 +25,6 @@
 
 #### UpperCase & LowerCase :
 - #### uppercase : This causes the text to appear uppercase. 
-##### h1 {
-##### text-transform: uppercase;}
-##### h2 {
-
 - #### lowercase : This causes the text to appear lowercase
 
 - #### capitalize:  This causes the first letter of each word to appear capitalized.
