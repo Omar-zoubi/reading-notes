@@ -23,7 +23,7 @@
 ##### Ems An em is equivalent to the width of a letter m.
 ![](https://i1.wp.com/www.tutorialbrain.com/wp-content/uploads/2019/02/Font-in-HTML.jpg?fit=1920%2C1080&ssl=1)
 
-#### UpperCase & LowerCase :
+#### Upper Case & Lower Case :
 - #### uppercase : This causes the text to appear uppercase. 
 - #### lowercase : This causes the text to appear lowercase
 
@@ -31,8 +31,8 @@
 ![](https://www.codegrepper.com/codeimages/uppercase-tag-in-html.png)
 ### Responding to Users:
 - #### Hover :This is applied when a user hovers over an element with a pointing device such as a mouse. 
-- #### Active:This is applied when an element is being activated by a user
-- #### Focus:This is applied when an element has focus. Any element that you can interact with, such as a link you can click on or any form control can have focus.
+- #### Active: This is applied when an element is being activated by a user
+- #### Focus: This is applied when an element has focus. Any element that you can interact with, such as a link you can click on or any form control can have focus.
 
 
 ***Done by : Omar Al-Zoubi***
