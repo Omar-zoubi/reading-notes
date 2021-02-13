@@ -6,12 +6,12 @@
 ### Here is the table :
 
 ***Table of contant***
-| Table Of Content |
-| [Markdown](https://omar-zoubi.github.io/reading-notes/reading-notes102/markdawn)|
-| [MindGrowth](https://omar-zoubi.github.io/reading-notes/reading-notes102/MindGrowth)|
-| [Git](https://omar-zoubi.github.io/reading-notes/reading-notes102/Git)|
-| [CSS](https://omar-zoubi.github.io/reading-notes/reading-notes102/css01)|
-| [Color](https://omar-zoubi.github.io/reading-notes/reading-notes102/color)|
+| Table Of Content  | 
+|  [Markdown](https://omar-zoubi.github.io/reading-notes/reading-notes102/markdawn) |
+|  [MindGrowth](https://omar-zoubi.github.io/reading-notes/reading-notes102/MindGrowth) |
+|  [Git](https://omar-zoubi.github.io/reading-notes/reading-notes102/Git) |
+|  [CSS](https://omar-zoubi.github.io/reading-notes/reading-notes102/css01) |
+|  [Color](https://omar-zoubi.github.io/reading-notes/reading-notes102/color) |
 
 
 
