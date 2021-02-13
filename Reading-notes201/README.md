@@ -1,22 +1,12 @@
 # HTML
-| Table Of Content  | 
-| :-----------------: |
-| [Markdown](https://omar-zoubi.github.io/reading-notes/reading-notes102/markdawn) |
-| [MindGrowth](https://omar-zoubi.github.io/reading-notes/reading-notes102/MindGrowth) |
-| [Git](https://omar-zoubi.github.io/reading-notes/reading-notes102/Git) |
-| [CSS](https://omar-zoubi.github.io/reading-notes/reading-notes102/css01) |
-| [Color](https://omar-zoubi.github.io/reading-notes/reading-notes102/color) |
-| [CSS&HTML](https://omar-zoubi.github.io/reading-notes/reading-notes102/class) |
-| [Links in HTML](https://omar-zoubi.github.io/reading-notes/reading-notes102/reading02) |
-| [HTML Lists](https://omar-zoubi.github.io/reading-notes/reading-notes102/reading03) |
-| [Images](https://omar-zoubi.github.io/reading-notes/reading-notes102/reading05) |
-| [Object](https://omar-zoubi.github.io/reading-notes/reading-notes102/reading06) |
+
 ## How People Access the Web ?
 - Browsers : People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer Safari, Chrome, and Opera.
 
 - Web Servers : When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website .
 
 - Screen readers Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
+
 
 ## structure :
 ### The structure is very similar when a news story is viewed online (although it may also feature audio or video).
@@ -52,3 +42,4 @@ that down into smaller steps.
 - Disign the script 
 - Code each step 
 ![](https://1.bp.blogspot.com/-l9eNZKNf_o0/XWgvUMssDkI/AAAAAAAAArc/1NRXlDYYzX0E-Hzcun5SNO3TLBiqYaLkwCLcBGAs/s640/learn%2BJavascript.jpg)
+
