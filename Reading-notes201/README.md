@@ -6,7 +6,7 @@
 |  [Imges](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading05) |
 |  [Object](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading06) |
 |  [HTML](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading01) |
-
+|  [Function in JS](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading07) |
 
 
 
