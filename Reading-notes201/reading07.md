@@ -13,7 +13,7 @@
 #### 5.Store the newly created object in a variable so you can access its properties and methods from outside.
 #### 6Use the this variable within methods so you can access the object's properties and methods from inside.
 
-[](https://miro.medium.com/max/3572/1*kM41O4gBK3BvXI0870A_kA.jpeg)
+![](https://miro.medium.com/max/3572/1*kM41O4gBK3BvXI0870A_kA.jpeg)
 
 ## What's a Table?
 #### A table represents information in a grid format. Examples of tables include financial reports, TV schedules, and sports results.
@@ -24,7 +24,7 @@
 #### You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
 #### For long tables you can split the table into a <thead>, <tbody>, and <tfoot>.
 
-[](https://www.mediumpedia.com/wp-content/uploads/2020/08/Create-Tables-in-HTML.png)
+![](https://www.mediumpedia.com/wp-content/uploads/2020/08/Create-Tables-in-HTML.png)
 
 
 ## GLOBAL OBJECTS:
@@ -34,7 +34,7 @@
 #### An object is a series of variables and functions that represent something from the world around you.
 #### Web browsers implement objects that represent both the browser window and the document loaded into the browser window. 
 
-[](https://cdn.educba.com/academy/wp-content/uploads/2020/05/Object-in-JavaScript.jpg)
+![](https://cdn.educba.com/academy/wp-content/uploads/2020/05/Object-in-JavaScript.jpg)
 
 #### Arrays and objects can be used to create complex data sets (and both can contain the other). 
 
