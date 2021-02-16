@@ -8,6 +8,7 @@
 |  [HTML](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading01) |
 |  [Function in JS](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading07) |
 |  [Layout](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading08) |
+|  [Events and Tables](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading09) |
 
 
 
