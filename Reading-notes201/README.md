@@ -9,7 +9,7 @@
 |  [Function in JS](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading07) |
 |  [Layout](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading08) |
 |  [Events and Tables](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading09) |
-|  [Erprr Handling](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading10) |
+|  [Error Handling](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading10) |
 
 
 

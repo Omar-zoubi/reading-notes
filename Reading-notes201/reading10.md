@@ -1,4 +1,4 @@
-## Erorr Handling :
+## Error Handling :
 #### When you are writing JavaScript, do not expect to write it perfectly the first time. Programming is like problem solving: you are given a puzzle and not only do you have to solve it, but you also need to create the instructions that allow the computer to solve it. too. 
 
 ### EXECUTION CONTEXTS:
@@ -45,15 +45,15 @@
 
 ## HANDLING EXCEPTIONS:
 #### 1.TRY:
-#### First, you specify the code that you think might throw an exception within the try block. If an exception occurs in this section of code, control is automatically passed to the corresponding catch block. The try clause must be used in this type of error handling code, and it should always have either a catch, fi na 1 ly, or both. If you use a continue, break, or return keyword inside a try, it will go to the f i na 11 y option. 
+#### First, you specify the code that you think might throw an exception within the try block. If an exception occurs in this section of code, control is automatically passed to the corresponding catch block. The try clause must be used in this type of error handling code, and it should always have either a catch, finally, or both. If you use a continue, break, or return keyword inside a try, it will go to the final1 y option. 
 #### 2.CATCH
 #### If the try code block throws an exception, catch steps in with an alternative set of code. It has one parameter: the error object. Although it is optional, you are not handling the error if you do  not catch an error. The ability to catch an error can be very helpful if there is an issue  on a live website. It lets you tell users that something has gone wrong (rather than not informing them why the site stopped working). 
 #### 3.FINALLY:
-#### The contents of the fi na 11 y code block will run either way - whether the try block succeeded or failed. It even runs if a return keyword  is used in the try or catch block. It is sometimes used to clean up after the previous two clauses. These methods are similar to the .done(), . fail(), and . a 1 ways() methods in jQuery. You c an nest checks inside each other (place another try inside a catch), but be aware that it can affect performance of a script. 
+#### The contents of the fina11y code block will run either way - whether the try block succeeded or failed. It even runs if a return keyword  is used in the try or catch block. It is sometimes used to clean up after the previous two clauses. These methods are similar to the .done(), . fail(), and . a 1 ways() methods in jQuery. You c an nest checks inside each other (place another try inside a catch), but be aware that it can affect performance of a script. 
 ![](https://stackify.com/wp-content/uploads/2018/08/word-image-55.png)
 
 ### DEBUGGING TIPS :
-#### ANOTHER BROWSER: Some problems are browserspecific. Try the code in another browser to see which ones are causing a problem. 
+#### ANOTHER BROWSER: Some problems are browser specific. Try the code in another browser to see which ones are causing a problem. 
 #### STRIP IT BACK: Remove parts of code, and strip it down to the minimum you need. You can do this either by  removing the code altogether, or by just commenting it out using multi-line comments: /* Anything between these characters is a cofllllent */
 #### ADD NUMBERS: Write numbers to the console so you can see which the items get logged. It shows how far your code runs before errors stop it.
 
