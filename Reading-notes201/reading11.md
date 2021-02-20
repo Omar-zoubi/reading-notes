@@ -46,26 +46,26 @@
 ![](https://raw.githubusercontent.com/aleen42/PersonalWiki/docs/Programming/HTML/flash_video_audio/timeline.png)
 
 
-#### We have four button — play/pause, stop, rewind, and fast forward. Each <button> has a class name, a data-icon attribute for defining what icon should be shown on each button (we'll show how this works in the below section), and an aria-label attribute to provide an understandable description of each button, since we're not providing a human-readable label inside the tags. The contents of aria-label attributes are read out by screenreaders when their users focus on the elements that contain them. There is also a timer "<div>", which will report the elapsed time when the video is playing. Just for fun, we are providing two reporting mechanisms — a <span> containing the elapsed time in minutes and seconds, and an extra <div> that we will use to create a horizontal indicator bar that gets longer as the time elapses. To get an idea of what the finished product will look like, check out our finished version.
+#### We have four button — play/pause, stop, rewind, and fast forward. Each <button> button has a class name, a data-icon attribute for defining what icon should be shown on each button (we'll show how this works in the below section), and an aria-label attribute to provide an understandable description of each button, since we're not providing a human-readable label inside the tags. The contents of aria-label attributes are read out by screenreaders when their users focus on the elements that contain them. There is also a timer "<div>", which will report the elapsed time when the video is playing. Just for fun, we are providing two reporting mechanisms — a `span` containing the elapsed time in minutes and seconds, and an extra <div> that we will use to create a horizontal indicator bar that gets longer as the time elapses. To get an idea of what the finished product will look like, check out our finished version.
 
 #### Playing and pausing the video: play.addEventListener('click', playPauseMedia);
 
 #### function playPauseMedia() {
-####  if(media.paused) {
-####    play.setAttribute('data-icon','u');
-####    media.play();
-####  } else {
-####    play.setAttribute('data-icon','P');
-####    media.pause();
-####  }
-#### }
+####    if(media.paused) {
+####      play.setAttribute('data-icon','u');
+####      media.play();
+####    } else {
+####      play.setAttribute('data-icon','P');
+####      media.pause();
+####    }
+####   }
 ***to define playPauseMedia()***
 
 #### function stopMedia() {
-####  media.pause();
-####  media.currentTime = 0;
-####  play.setAttribute('data-icon','P');
-#### }
+####    media.pause();
+####    media.currentTime = 0;
+####    play.setAttribute('data-icon','P');
+####   }
 ***define stopMedia()***
 ![](https://bashooka.com/wp-content/uploads/2012/10/html5-vid-7.jpg)
 
