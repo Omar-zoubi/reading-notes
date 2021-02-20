@@ -10,7 +10,7 @@
 #### 2: On the image itself, you can use the use the margin property and set the values of the left and right margins to auto.
 
 ### Repeating Images:
-#### 1.repeat:The background image is repeated both horizontally and vertically (the default way it is shown if the backgroundrepeat property isn't used).
+#### 1.repeat:The background image is repeated both horizontally and vertically (the default way it is shown if the background repeat property isn't used).
 #### 2.repeat-x: The image is repeated horizontally only (as shown in the first example on the left).
 #### 3.repeat-y The image is repeated vertically only.
 #### 4.no-repeat: The image is only shown once. The background-attachment property specifies whether a background image should stay in one position or move as the user scrolls up and down the page. It can have one of two values:
@@ -39,14 +39,14 @@
 
 
 ### Use of Flash:
-#### Since 2005, a number of factors have meantthat fewer websites are written in Flash or even use elements of Flash in their pages.
+#### Since 2005, a number of factors have meant that fewer websites are written in Flash or even use elements of Flash in their pages.
 #### When Flash was first released, it was developed to create animations. The technology quickly evolved, however, and people started to use it to build media players and even entire websites. Although Flash is still very popular, in recent years people have been more selective about when they use it (and now rarely consider building an entire website in Flash).
 
 #### Timeline: Flash, VidEo & Audio Web technologies change quickly. Here you can see some of the changes in how animation, video, and audio are created on the web.
 ![](https://raw.githubusercontent.com/aleen42/PersonalWiki/docs/Programming/HTML/flash_video_audio/timeline.png)
 
 
-#### We have four `button` — play/pause, stop, rewind, and fast forward. Each <button> `button` has a class name, a data-icon attribute for defining what icon should be shown on each button (we'll show how this works in the below section), and an aria-label attribute to provide an understandable description of each button, since we're not providing a human-readable label inside the tags. The contents of aria-label attributes are read out by screenreaders when their users focus on the elements that contain them. There is also a timer `div`, which will report the elapsed time when the video is playing. Just for fun, we are providing two reporting mechanisms — a `span` containing the elapsed time in minutes and seconds, and an extra <div> that we will use to create a horizontal indicator bar that gets longer as the time elapses. To get an idea of what the finished product will look like, check out our finished version.
+#### We have four `button` — play/pause, stop, rewind, and fast forward. Each <button> `button` has a class name, a data-icon attribute for defining what icon should be shown on each button (we'll show how this works in the below section), and an aria-label attribute to provide an understandable description of each button, since we're not providing a human-readable label inside the tags. The contents of aria-label attributes are read out by screen readers when their users focus on the elements that contain them. There is also a timer `div`, which will report the elapsed time when the video is playing. Just for fun, we are providing two reporting mechanisms — a `span` containing the elapsed time in minutes and seconds, and an extra <div> that we will use to create a horizontal indicator bar that gets longer as the time elapses. To get an idea of what the finished product will look like, check out our finished version.
 
 #### Playing and pausing the video: play.addEventListener('click', playPauseMedia);
 
