@@ -1,6 +1,6 @@
 ## Chart.js
 #### Installation:
-#### You can download the latest version of Chart.js from the [GitHub releases](https://github.com/chartjs/Chart.js/releases/tag/v2.9.4)or use a [Chart.js CDN.](https://www.jsdelivr.com/package/npm/chart.js) Detailed installation instructions can be found on the [installation](https://www.chartjs.org/docs/latest/getting-started/installation.html) page.
+#### You can download the latest version of Chart.js from the [GitHub releases](https://github.com/chartjs/Chart.js/releases/tag/v2.9.4) or use a [Chart.js CDN.](https://www.jsdelivr.com/package/npm/chart.js) Detailed installation instructions can be found on the [installation](https://www.chartjs.org/docs/latest/getting-started/installation.html) page.
  
 #### Creating a Chart:
 #### It's easy to get started with Chart.js. All that's required is the script included in your page along with a single `canvas` node to render the chart.
@@ -27,7 +27,7 @@
 #### Each of these three functions takes the same parameters. x and y specify the position on the canvas (relative to the origin) of the top-left corner of the rectangle. width and height provide the rectangle's size.
 
 ### Drawing paths:
-#### Now let's look at paths. A path is a list of points, connected by segments of lines that can be of different shapes, curved or not, of different width and of different color. A path, or even a subpath, can be closed. To make shapes using paths, we take some extra steps:
+#### Now let's look at paths. A path is a list of points, connected by segments of lines that can be of different shapes, curved or not, of different width and of different color. A path, or even a sub path, can be closed. To make shapes using paths, we take some extra steps:
 #### 1.First, you create the path.
 #### 2.Then you use drawing commands to draw into the path.
 #### 3.Once the path has been created, you can stroke or fill the path to render it.
