@@ -11,7 +11,7 @@
 |  [Events and Tables](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading09) |
 |  [Error Handling](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading10) |
 |  [Image, video and flash ](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading11) |
-
+|  [Chart.js](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading12) |
 
 
 
