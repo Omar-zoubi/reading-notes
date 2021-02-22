@@ -14,7 +14,7 @@
 ![](https://lh3.googleusercontent.com/proxy/huJAYs0-tUzYnA5Wv1gZE8kNYRkFT8zuS7sog_CZtq4QuOBwiddhH-3q-mb2Ep-pujpY8KvxGipMSQlLPPS0nc0S0KnhqbUnwPw_-oI41iTeQMge)
 
 
-### BEYOND NAMED KEY-VALUE PAIRS: COMPETING VISIONS:
+### BEYOND NAMED KEY-VALUE PAIRS: COMPETING VISIONS
 #### While the past is littered with hacks and workarounds, the present condition of HTML5 Storage is surprisingly rosy. A new API has been standardized and implemented across all major browsers, platforms, and devices. As a web developer, that’s just not something you see every day, is it? But there is more to life than “5 megabytes of named key/value pairs,” and the future of persistent local storage is… how shall I put it… well, there are competing visions.
 
 #### One vision is an acronym that you probably know already: SQL. In 2007, Google launched Gears, an open source cross-browser plugin which included an embedded database based on SQLite. This early prototype later influenced the creation of the Web SQL Database specification. 
