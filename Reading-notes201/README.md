@@ -12,7 +12,7 @@
 |  [Error Handling](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading10) |
 |  [Image, video and flash ](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading11) |
 |  [Chart.js](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading12) |
-
+|  [HTML5 STORAGE](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading13) |
 
 
 ### Hope you to enjoy browsing my website .. 
