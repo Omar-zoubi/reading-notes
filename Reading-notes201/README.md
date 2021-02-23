@@ -13,6 +13,8 @@
 |  [Image, video and flash ](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading11) |
 |  [Chart.js](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading12) |
 |  [HTML5 STORAGE](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading13) |
+|  [Transforms](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading14a) |
+|  [Google Teams](https://omar-zoubi.github.io/reading-notes/Reading-notes201/reading14b) |
 
 
 ### Hope you to enjoy browsing my website .. 
