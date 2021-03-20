@@ -15,13 +15,13 @@
 #### Provide the ability to specify different styles for individual browser and device circumstances. Being able to apply uniquely targeted styles opens up a world of opportunity and leverage to responsive web design.
 
 ### Initializing Media Queries:
-#### Each media query may include a media type followed by one or more expressions.The HTML5 specification includes new media types. When a media feature and value allocate to true, the styles are applied. If the media feature and value allocate to false the styles are ignored.
+#### Each media query may include a media type followed by one or more expressions. The HTML5 specification includes new media types. When a media feature and value allocate to true, the styles are applied. If the media feature and value allocate to false the styles are ignored.
 ### What is “Float”?
 #### Float is a CSS positioning property.
 #### In page layout programs, the boxes that hold the text can be told to honor the text wrap, or to ignore it. Ignoring the text wrap will allow the words to flow right over the image like it wasn’t even there. This is the difference between that image being part of the flow of the page (or not). Web design is very similar.
 ![](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598d7187-6329-48a9-a8a5-732458a6ecbc/stopdesign-float.jpg)
 
-### How to use the float prparity ?
+### How to use the float property ?
 ![](https://www.programmersought.com/images/46/1967fa854abf6c71f873e9a13f1ac70e.png)
 
 ***If you do not want this property to be applied to the rest of the elements you have to use this line of code :*** 
