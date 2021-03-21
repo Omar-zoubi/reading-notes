@@ -1,7 +1,7 @@
 | Table Of Content  | 
 | :-----------------: |
 |  [Lyout & Float](https://omar-zoubi.github.io/reading-notes/reading301/reading01) |
-|  [2]() |
+|  [JQuery]((https://omar-zoubi.github.io/reading-notes/reading301/reading02)) |
 |  [3]() |
 |  [4]() |
 |  [5]() |
