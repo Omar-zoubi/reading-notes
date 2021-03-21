@@ -1,5 +1,5 @@
 ## What is JQuery?
-#### jQuery is a JS librariy that offers a simple way to achieve a variety of common  JavaScript tasks quickly and consistently, across all major browsers and without any fallback code needed.
+#### jQuery is a JS library that offers a simple way to achieve a variety of common  JavaScript tasks quickly and consistently, across all major browsers and without any fallback code needed.
 #### 1. In order to use jQuery, the first  thing you need to do is include  the jQuery script in your page.  You can see that it is included  before the closing body tag.
 #### 2. Once jQuery has been added  to the page, a second JavaScript  file is included that uses jQuery  selectors and methods to update the content of the HTML page. 
 
