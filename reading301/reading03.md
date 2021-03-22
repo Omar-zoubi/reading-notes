@@ -28,6 +28,7 @@ Or :
 #### -cross size – The width or height of a flex item, whichever is in the cross dimension, is the item’s cross size. The cross size property is whichever of ‘width’ or ‘height’ that is in the cross dimension.
 
 ### Flexbox properties:
+
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--NBPSPt0K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/gv3jyh4xt4fbwtq1qejn.png)
 
 
