@@ -2,7 +2,7 @@
 | :-----------------: |
 |  [Lyout && Float](https://omar-zoubi.github.io/reading-notes/reading301/reading01) |
 |  [JQuery](https://omar-zoubi.github.io/reading-notes/reading301/reading02) |
-|  [ Mustache ](https://omar-zoubi.github.io/reading-notes/reading301/reading03) |
+|  [FlexBox](https://omar-zoubi.github.io/reading-notes/reading301/reading03) |
 |  [4]() |
 |  [5]() |
 |  [6]() |
