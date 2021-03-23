@@ -3,7 +3,7 @@
 |  [Lyout && Float](https://omar-zoubi.github.io/reading-notes/reading301/reading01) |
 |  [JQuery](https://omar-zoubi.github.io/reading-notes/reading301/reading02) |
 |  [FlexBox](https://omar-zoubi.github.io/reading-notes/reading301/reading03) |
-|  [4]() |
+|  [Responsive && Regular Expressions](https://omar-zoubi.github.io/reading-notes/reading301/reading04) |
 |  [5]() |
 |  [6]() |
 |  [7]() |
