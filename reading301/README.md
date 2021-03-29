@@ -4,10 +4,10 @@
 |  [JQuery](https://omar-zoubi.github.io/reading-notes/reading301/reading02) |
 |  [FlexBox](https://omar-zoubi.github.io/reading-notes/reading301/reading03) |
 |  [Responsive && Regular Expressions ](https://omar-zoubi.github.io/reading-notes/reading301/reading04) |
-|  [Node.js](https://omar-zoubi.github.io/reading-notes/reading301/reading05) |
-|  [6]() |
-|  [7]() |
-|  [8]() |
+|  [Heroku](https://omar-zoubi.github.io/reading-notes/reading301/reading05) |
+|  [Node.JS](https://omar-zoubi.github.io/reading-notes/reading301/reading06) |
+|  [API](https://omar-zoubi.github.io/reading-notes/reading301/reading07) |
+|  [SQL](https://omar-zoubi.github.io/reading-notes/reading301/reading08) |
 |  [9]() |
 |  [10]() |
 |  [11]() |
