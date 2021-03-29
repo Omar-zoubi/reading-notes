@@ -16,7 +16,7 @@
 #### Advanages:
 ![](https://dzone.com/storage/temp/13725147-nodejs-advantages.jpeg)
 
-### Other Uses of Node
+### Other Uses of Node:
 #### 1. Scripting language to automate repetitive or error prone tasks on your PC.
 #### 2. Write your own command line tool, such as this Yeoman-Style generator to scaffold out new projects.
 #### 3. Build cross-platform desktop apps and even to create your own robots.
