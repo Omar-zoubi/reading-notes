@@ -8,7 +8,7 @@
 |  [Node.JS](https://omar-zoubi.github.io/reading-notes/reading301/reading06) |
 |  [API](https://omar-zoubi.github.io/reading-notes/reading301/reading07) |
 |  [SQL](https://omar-zoubi.github.io/reading-notes/reading301/reading08) |
-|  [9]() |
+|  [Functional Programming](https://omar-zoubi.github.io/reading-notes/reading301/reading09) |
 |  [10]() |
 |  [11]() |
 |  [12]() |
