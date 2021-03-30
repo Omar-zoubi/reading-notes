@@ -17,7 +17,7 @@
 |  [15]() |
 
 
-### Hope you to enjoy browsing my website .. 
+### Hope you to enjoy browsing my website. 
 ### you allways can check for my new on GitHub ..
 
 - [GitHub Link](https://github.com/Omar-zoubi)
