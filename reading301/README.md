@@ -9,7 +9,7 @@
 |  [API](https://omar-zoubi.github.io/reading-notes/reading301/reading07) |
 |  [SQL](https://omar-zoubi.github.io/reading-notes/reading301/reading08) |
 |  [Functional Programming](https://omar-zoubi.github.io/reading-notes/reading301/reading09) |
-|  [10]() |
+|  [Call Stack](https://omar-zoubi.github.io/reading-notes/reading301/reading10) |
 |  [11]() |
 |  [12]() |
 |  [13]() |
