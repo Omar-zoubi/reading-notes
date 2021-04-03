@@ -1,8 +1,20 @@
-## EJS Partials:
-#### Partials come in handy when you want to reuse the same HTML across multiple views.Partials make large websites easier to maintain as you don’t have to go and change a piece of text in every page it appears in. Instead, you define that reusable bundle of code in a file andinclude it wherever you need it.
-![](https://i.stack.imgur.com/Jt4nj.png)
-#### In EJS, any JavaScript or non-HTML syntax you include in your templates is always surrounded by <% %> delimiters 
-#### Including a partial in EJS is quite straightforward. You use <%- include( PARTIAL_FILE ) %> where the partial file is relative to the template you use it in.
+## Embedded Java Script: 
+#### EJS is a simple templating language that lets you generate HTML markup with plain JavaScript. No religiousness about how to organize things. No reinvention of iteration and control-flow. It's just plain JavaScript.
+
+## Features:
+#### -Fast compilation and rendering
+#### -Simple template tags: <% %>
+#### -Custom delimiters (e.g., use [? ?] instead of <% %>)
+#### -Sub-template includes
+#### -Ships with CLI
+#### -Both server JS and browser support
+#### -Static caching of intermediate JavaScript
+#### -Static caching of templates
+#### -Complies with the Express view system
+## How to install:
+#### On the terminal:  <npm install njs>
+
+
 
 
 ***Done by Omar-zoubi***
