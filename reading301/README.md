@@ -10,12 +10,11 @@
 |  [SQL](https://omar-zoubi.github.io/reading-notes/reading301/reading08) |
 |  [Functional Programming](https://omar-zoubi.github.io/reading-notes/reading301/reading09) |
 |  [Call Stack](https://omar-zoubi.github.io/reading-notes/reading301/reading10) |
-|  [11]() |
+|  [EJS Partials](https://omar-zoubi.github.io/reading-notes/reading301/reading11) |
 |  [12]() |
 |  [13]() |
 |  [14]() |
 |  [15]() |
-
 
 ### Hope you to enjoy browsing my website. 
 ### you allways can check for my new on GitHub ..
