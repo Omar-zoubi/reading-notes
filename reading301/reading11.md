@@ -12,7 +12,8 @@
 #### -Static caching of templates
 #### -Complies with the Express view system
 ## How to install:
-#### On the terminal:  ` npm install njs `
+#### On the terminal:  
+`npm install njs`
 
 
 
