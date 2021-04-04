@@ -11,7 +11,7 @@
 |  [Functional Programming](https://omar-zoubi.github.io/reading-notes/reading301/reading09) |
 |  [Call Stack](https://omar-zoubi.github.io/reading-notes/reading301/reading10) |
 |  [EJS Partials](https://omar-zoubi.github.io/reading-notes/reading301/reading11) |
-|  [12]() |
+|  [EJS Partials](https://omar-zoubi.github.io/reading-notes/reading301/reading12) |
 |  [13]() |
 |  [14]() |
 |  [15]() |
