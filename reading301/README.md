@@ -13,7 +13,7 @@
 |  [EJS Partials](https://omar-zoubi.github.io/reading-notes/reading301/reading11) |
 |  [EJS Partials](https://omar-zoubi.github.io/reading-notes/reading301/reading12) |
 |  [Sending form data](https://omar-zoubi.github.io/reading-notes/reading301/reading13) |
-|  [14]() |
+|  [Data normalization ](https://omar-zoubi.github.io/reading-notes/reading301/reading14) |
 |  [15]() |
 
 ### Hope you to enjoy browsing my website. 
