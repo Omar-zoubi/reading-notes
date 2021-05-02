@@ -1,5 +1,5 @@
 ## Big O notation:
-used in Computer Science to describe the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario.
+#### used in Computer Science to describe the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario.
 #### -O(1) describes an algorithm that will always execute in the same time (or space) regardless of the size of the input data set.
 #### -O(N) describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set.
 #### -O(N²) represents an algorithm whose performance is directly proportional to the square of the size of the input data set. This is common with algorithms that involve nested iterations over the data set. Deeper nested iterations will result in O(N³), O(N⁴) etc. 
