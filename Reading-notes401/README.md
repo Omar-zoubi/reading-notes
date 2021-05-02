@@ -3,7 +3,7 @@
 
 | Table Of Content  | 
 | :-----------------: |
-|  [1]() |
+|  [Big O](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading01) |
 |  [2]() |
 |  [3]() |
 |  [4]() |

@@ -36,7 +36,3 @@
 
 - [GitHub Link](https://github.com/Omar-zoubi)
 - [Linkedin Link](https://www.linkedin.com/in/omar-alzoubi-54034bb4/)
-
-
-
-
