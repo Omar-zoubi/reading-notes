@@ -5,7 +5,7 @@
 | :-----------------: |
 |  [Big O](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading01) |
 |  [Testing & Recursion](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading02) |
-|  [3]() |
+|  [Error&Exception](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading03) |
 |  [4]() |
 |  [5]() |
 |  [6]() |
