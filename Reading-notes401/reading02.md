@@ -10,10 +10,11 @@
 
 ## Recursion
 #### The process in which a function calls itself directly or indirectly is  and the corresponding function is called as recursive function.
-![](https://www.edureka.co/blog/wp-content/uploads/2019/08/2019-08-06-12_31_29-Window.png)
 
 #### Base condition in recursion:
 #### In the recursive program, the solution to the base case is provided and the solution of the bigger problem is expressed in terms of smaller problems. 
+![](https://www.edureka.co/blog/wp-content/uploads/2019/08/2019-08-06-12_31_29-Window.png)
+
 #### The idea is to represent a problem in terms of one or more smaller problems, and add one or more base conditions that stop the recursion.
 
 
@@ -33,8 +34,8 @@
 
 
 ##### Resources:
-[Testing](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
-[Recursion](https://www.geeksforgeeks.org/recursion/)
+- [Testing](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
+- [Recursion](https://www.geeksforgeeks.org/recursion/)
 
 
 
