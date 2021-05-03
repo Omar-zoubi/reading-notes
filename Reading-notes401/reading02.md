@@ -1,10 +1,10 @@
 # Testing:
 ### Unit tests and TDD
-#### Unit tests are some pieces of code to exercise the input, the output and the behaviour of your code. You can write them anytime you want.
+#### Unit tests are some pieces of code to exercise the input, the output and the behavior  of your code. You can write them anytime you want.
 #### Test values:
 #### -Expected
 #### -Actual.
-#### We should chose the testing values depending on our under standing to the code, we also should choose critical values for the testing , for example if the program was dealing with numbers we should check positive and nigative,
+#### We should chose the testing values depending on our under standing to the code, we also should choose critical values for the testing , for example if the program was dealing with numbers we should check positive and negative,
 ***if there is an interval we should check the beginning and the ending for the interval. craft the software design first is really great advantage for TDD***
 ![](https://www.xenonstack.com/images/insights/2020/04/test-driven-development-tools-best-practices-xenonstack.png)
 
