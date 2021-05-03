@@ -12,9 +12,9 @@
 ![](img/file reading method.PNG)
 
 ### Appending to a File
-#### Sometimes, you may want to append to a file or start writing at the end of an already populated file. This is easily done by using the 'a' character for the mode argumen
+#### Sometimes, you may want to append to a file or start writing at the end of an already populated file. This is easily done by using the 'a' character for the mode argument
 
-![](img/appendingfile.PNG)
+[](img/appendingfile.PNG)
 
 #### Some helpful libraries:
 #### -wave: read and write WAV files (audio)
@@ -33,12 +33,12 @@
 
 
 ## The Assertion Error Exception
-#### Instead of waiting for a program to crash midway, you can also start by making an assertion in Python. We assert that a certain condition is met. If this condition turns out to be True, then that is excellent! The program can continue. If the condition turns out to be False, you can have the program throw an AssertionError exception.
+#### Instead of waiting for a program to crash midway, you can also start by making an assertion in Python. We assert that a certain condition is met. If this condition turns out to be True, then that is excellent! The program can continue. If the condition turns out to be False, you can have the program throw an Assertion Error exception.
 
 
 ## The `try` and `except` Block: 
 #### The `try` and `except` block in Python is used to catch and handle exceptions. Python executes code following the try statement as a “normal” part of the program. The code that follows the except statement is the program’s response to any exceptions in the preceding try clause.
-!()[https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png]
+![](https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png)
 ## `else`:
 #### You can instruct a program to execute a certain block of code only in the absence of exceptions.
 ## `finally`: 
