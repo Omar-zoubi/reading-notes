@@ -6,7 +6,7 @@
 |  [Big O](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading01) |
 |  [Testing & Recursion](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading02) |
 |  [Error&Exception](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading03) |
-|  [4]() |
+|  [Class$Objects](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading04) |
 |  [5]() |
 |  [6]() |
 |  [7]() |
