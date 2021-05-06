@@ -22,7 +22,7 @@
 
 
 ### Circular linked list:
-!()[https://i.ytimg.com/vi/ADwW1w7iG0E/maxresdefault.jpg]
+![](https://i.ytimg.com/vi/ADwW1w7iG0E/maxresdefault.jpg)
 #### It has a node that acts as the tail of the list (rather than the conventional head node), and the node after the tail node is the beginning of the list. This organization structure makes it really easy to add something to the end of the list, because you can begin traversing it at the tail node, as the first element and last element point to one another.
 
 ### Big O Notation:
