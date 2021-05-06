@@ -7,7 +7,7 @@
 |  [Testing & Recursion](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading02) |
 |  [Error&Exception](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading03) |
 |  [Class$Objects](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading04) |
-|  [5]() |
+|  [LinkedList](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading05) |
 |  [6]() |
 |  [7]() |
 |  [8]() |
