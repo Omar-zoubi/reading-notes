@@ -1,7 +1,7 @@
 ## Linked Lists:
 #### A Linked List is a sequence of Nodes that are connected/linked to each other. The most defining feature of a Linked List is that each Node references the next Node in the link.
 ### Some details about Linked list:
-#### -Singly: nked list means that there is only one reference.
+#### -Singly: linked list means that there is only one reference.
 #### - Doubly: linked list means that there is a reference to both the Next and Previous node.
 #### -Nodes: individual items/links that live in a linked list. Each node contains the data for each link.
 #### -Next: This property contains the reference to the next node.
@@ -30,11 +30,11 @@
 ***the speed and efficiency with which something functions when its input grows to be any (crazy big!) size.***
 ### Growing a linked list
 #### All we really need to do is rearrange our pointers. We know that a linked list is made up a single node, and a node always contains some data and, most importantly, a pointer to the next node or null.
-#### Sme thing you have to take in your consideration:
+#### Some thing you have to take in your consideration:
 ***a linked list is usually efficient when it comes to adding and removing most elements, but can be very slow to search and find a single element.***
 
 
-### situations to choos between linked list and array:
+### situations to choose between linked list and array:
 ![](img/linkedvsarray.PNG)
 
 
