@@ -8,7 +8,7 @@
 |  [Error&Exception](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading03) |
 |  [Class$Objects](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading04) |
 |  [LinkedList](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading05) |
-|  [6]() |
+|  [ Risk Analysis](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading06) |
 |  [7]() |
 |  [8]() |
 |  [9]() |
