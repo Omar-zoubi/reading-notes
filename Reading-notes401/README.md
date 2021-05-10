@@ -9,7 +9,7 @@
 |  [Class$Objects](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading04) |
 |  [LinkedList](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading05) |
 |  [ Risk Analysis](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading06) |
-|  [7]() |
+|  [Scoup](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading07) |
 |  [8]() |
 |  [9]() |
 |  [10]() |
