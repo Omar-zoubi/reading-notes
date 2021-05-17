@@ -10,7 +10,7 @@
 |  [LinkedList](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading05) |
 |  [ Risk Analysis](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading06) |
 |  [Scoup](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading07) |
-|  [8]() |
+|  [List Comprehensions](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading08) |
 |  [9]() |
 |  [10]() |
 |  [11]() |
