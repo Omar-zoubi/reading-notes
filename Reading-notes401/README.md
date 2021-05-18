@@ -11,7 +11,7 @@
 |  [ Risk Analysis](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading06) |
 |  [Scoup](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading07) |
 |  [List Comprehensions](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading08) |
-|  [9]() |
+|  [Dunder Methods](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading09) |
 |  [10]() |
 |  [11]() |
 |  [12]() |
