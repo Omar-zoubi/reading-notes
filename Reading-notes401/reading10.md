@@ -29,7 +29,7 @@
 #### -Peek - When you peek you will view the value of the front Node in the queue. If called when the queue is empty an exception will be raised.
 #### -IsEmpty - returns true when queue is empty otherwise returns false.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lifo_stack.png/350px-Lifo_stack.png)
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Stack-Queue.png)
 
 
 
