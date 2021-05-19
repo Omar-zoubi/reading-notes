@@ -12,7 +12,7 @@
 |  [Scoup](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading07) |
 |  [List Comprehensions](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading08) |
 |  [Dunder Methods](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading09) |
-|  [10]() |
+|  [Stack & Queues](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading10) |
 |  [11]() |
 |  [12]() |
 |  [13]() |
