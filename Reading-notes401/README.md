@@ -13,7 +13,7 @@
 |  [List Comprehensions](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading08) |
 |  [Dunder Methods](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading09) |
 |  [Stack & Queues](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading10) |
-|  [11]() |
+|  [Numpy](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading11) |
 |  [12]() |
 |  [13]() |
 |  [14]() |
