@@ -19,9 +19,9 @@ array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
 #### Enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manne
 
 ### Code Consoles:
-> provide transient scratchpads for running code interactively, with full support for rich output.
+#### provide transient scratchpads for running code interactively, with full support for rich output.
 ### Kernel-backed documents: 
-> enable code in any text file (Markdown, Python, R, LaTeX, etc.) to be run interactively in any Jupyter kernel. 
+#### enable code in any text file (Markdown, Python, R, LaTeX, etc.) to be run interactively in any Jupyter kernel. 
 ### Notebook cell: outputs can be mirrored into their own tab, side by side with the notebook, enabling simple dashboards with interactive controls backed by a kernel.
 ### Multiple views of documents with different editors or viewers enable live editing of documents reflected in other viewers. For example, it is easy to have live preview of Markdown, Delimiter-separated Values, or Vega/Vega-Lite documents.
 

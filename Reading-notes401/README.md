@@ -14,7 +14,7 @@
 |  [Dunder Methods](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading09) |
 |  [Stack & Queues](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading10) |
 |  [Numpy](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading11) |
-|  [12]() |
+|  [Pandas](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading12) |
 |  [13]() |
 |  [14]() |
 |  [15]() |
