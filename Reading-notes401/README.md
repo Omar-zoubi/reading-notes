@@ -15,8 +15,8 @@
 |  [Stack & Queues](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading10) |
 |  [Numpy](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading11) |
 |  [Pandas](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading12) |
-|  [13]() |
-|  [14]() |
+|  [inear Regression](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading13) |
+|  [Matplotlib](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading14) |
 |  [15]() |
 
 ### Hope you to enjoy browsing my website. 
