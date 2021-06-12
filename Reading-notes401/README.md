@@ -22,7 +22,7 @@
 |  [Web scraping](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading17) |
 |  [Caesar_cipher](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading18) |
 |  [Python RegEx](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading19) |
-|  [15]() |
+|  [Django](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading20) |
 |  [15]() |
 |  [15]() |
 |  [15]() |
