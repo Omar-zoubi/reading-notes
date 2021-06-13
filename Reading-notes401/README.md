@@ -23,7 +23,7 @@
 |  [Caesar_cipher](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading18) |
 |  [Python RegEx](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading19) |
 |  [Django](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading20) |
-|  [15]() |
+|  [Django admin site](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading27) |
 |  [15]() |
 |  [15]() |
 |  [15]() |
