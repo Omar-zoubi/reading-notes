@@ -25,7 +25,7 @@
 |  [Django](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading20) |
 |  [Django admin site](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading27) |
 |  [Django Forms](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading28) |
-|  [15]() |
+|  [Custom User Model](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading29) |
 |  [15]() |
 |  [15]() |
 |  [15]() |
