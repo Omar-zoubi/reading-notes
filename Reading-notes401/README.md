@@ -24,7 +24,7 @@
 |  [Python RegEx](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading19) |
 |  [Django](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading20) |
 |  [Django admin site](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading27) |
-|  [15]() |
+|  [Django Forms](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading28) |
 |  [15]() |
 |  [15]() |
 |  [15]() |
