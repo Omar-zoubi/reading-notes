@@ -28,7 +28,7 @@
 |  [Custom User Model](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading29) |
 |  [Hashtables](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading30) |
 |  [Guide to Docker](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading31) |
-|  [15]() |
+|  [Permissions](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading32) |
 |  [15]() |
 
 ### Hope you to enjoy browsing my website. 
