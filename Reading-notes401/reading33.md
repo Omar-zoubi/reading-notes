@@ -23,3 +23,17 @@ The header typically consists of two parts: the type of the token, which is JWT,
 - In fact it is necessary to make sure the user still have the correct permissions. If your access token have a long expire time, it may take longer to update the information associated with the token. That’s because the authentication check is done by cryptographic means, instead of querying the database and verifying the data. So some information is sort of cached.
 
 - There is also a security aspect, in a sense that the refresh token only travel in the POST data. And the access token is sent via HTTP header, which may be logged along the way. So this also give a short window, should your access token be compromised.
+
+
+
+#### Resources:
+
+- [JSON](https://jwt.io/introduction/)
+
+
+
+
+
+***Done by Omar-zoubi***
+- [GitHub Link](https://github.com/Omar-zoubi)
+- [Linkedin Link](https://www.linkedin.com/in/omar-alzoubi-54034bb4/)
