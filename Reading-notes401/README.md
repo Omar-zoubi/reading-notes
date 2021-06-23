@@ -30,6 +30,7 @@
 |  [Guide to Docker](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading31) |
 |  [Permissions](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading32) |
 |  [JSON](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading33) |
+|  [SSH](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading34) |
 
 ### Hope you to enjoy browsing my website. 
 ### you allways can check for my new on GitHub ..
