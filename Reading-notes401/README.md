@@ -32,7 +32,7 @@
 |  [JSON](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading33) |
 |  [SSH](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading34) |
 |  [Graphs](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading35) |
-
+|  [Whiteboard Interview Advice](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading36) |
 ### Hope you to enjoy browsing my website. 
 ### you allways can check for my new on GitHub ..
 
