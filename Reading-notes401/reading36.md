@@ -6,6 +6,7 @@
 Think for a bit about the inputs and expected output and think about potential edge cases to the problem. Ask about them.
 - Test Cases:
  Simply ask if there are any test cases that the function should pass. 
+ 
  ***Write Pseudocode and Ask If It Makes Sense***
 ![](https://media-exp1.licdn.com/dms/image/C5612AQEeuX8vvrwb5A/article-cover_image-shrink_600_2000/0/1520202449395?e=1628121600&v=beta&t=IUuV0sBFIdRequkwBl8hhZJaWeZlxZxsY5DoIhsd2PY)
  ## programming interview:
