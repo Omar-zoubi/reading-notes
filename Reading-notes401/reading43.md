@@ -43,3 +43,9 @@ I was woefully underpaid. But as my dad still likes to point out, I got free roo
 Later, I managed to help fund a part of my education through a few freelance coding gigs. I built a couple of early e-commerce sites for some local small businesses.
 
 By age 21, I managed to land a full-time coding job with an interactive marketing firm in Toronto, Canada.
+
+
+
+***Done by Omar-zoubi***
+- [GitHub Link](https://github.com/Omar-zoubi)
+- [Linkedin Link](https://www.linkedin.com/in/omar-alzoubi-54034bb4/)

@@ -37,6 +37,7 @@
 |  [React](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading38) |
 |  [Next.js - Deployment](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading41) |
 |  [Generator](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading42) |
+|  [Ethics](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading43) |
 
 ### Hope you to enjoy browsing my website. 
 ### you allways can check for my new on GitHub ..
