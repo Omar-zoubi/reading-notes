@@ -35,6 +35,7 @@
 |  [Whiteboard Interview Advice](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading36) |
 |  [React](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading37) |
 |  [React](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading38) |
+|  [Next.js - Deployment](https://omar-zoubi.github.io/reading-notes/Reading-notes401/reading41) |
 
 ### Hope you to enjoy browsing my website. 
 ### you allways can check for my new on GitHub ..
